@@ -1,0 +1,5 @@
+WINNER: Draft B wins because its single-event lead is within the required length and its reporting is anchored most consistently in direct agency, company, on-chain-investigation, and protocol sources.
+
+RANKING:
+2. Draft C: It has strong primary reporting, but its lead combines separate seizure and infrastructure actions and makes the central Justice Department citation depend on an unavailable archive URL.
+3. Draft A: It has a sound lead length and complete sections, but central figures rest on Wikipedia and several news claims use weaker or inaccessible secondary sourcing.
